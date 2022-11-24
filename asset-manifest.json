@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PruebaFrontend/static/css/main.6d678b13.chunk.css",
+    "main.js": "/PruebaFrontend/static/js/main.2f3716bb.chunk.js",
+    "main.js.map": "/PruebaFrontend/static/js/main.2f3716bb.chunk.js.map",
+    "runtime-main.js": "/PruebaFrontend/static/js/runtime-main.5f61030e.js",
+    "runtime-main.js.map": "/PruebaFrontend/static/js/runtime-main.5f61030e.js.map",
+    "static/js/2.877f4213.chunk.js": "/PruebaFrontend/static/js/2.877f4213.chunk.js",
+    "static/js/2.877f4213.chunk.js.map": "/PruebaFrontend/static/js/2.877f4213.chunk.js.map",
+    "static/js/3.ff4f4f22.chunk.js": "/PruebaFrontend/static/js/3.ff4f4f22.chunk.js",
+    "static/js/3.ff4f4f22.chunk.js.map": "/PruebaFrontend/static/js/3.ff4f4f22.chunk.js.map",
+    "index.html": "/PruebaFrontend/index.html",
+    "static/css/main.6d678b13.chunk.css.map": "/PruebaFrontend/static/css/main.6d678b13.chunk.css.map",
+    "static/js/2.877f4213.chunk.js.LICENSE.txt": "/PruebaFrontend/static/js/2.877f4213.chunk.js.LICENSE.txt",
+    "static/media/check.376ef3c8.png": "/PruebaFrontend/static/media/check.376ef3c8.png",
+    "static/media/informacion.b3efc808.png": "/PruebaFrontend/static/media/informacion.b3efc808.png",
+    "static/media/pregunta.2df9685f.png": "/PruebaFrontend/static/media/pregunta.2df9685f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f61030e.js",
+    "static/js/2.877f4213.chunk.js",
+    "static/css/main.6d678b13.chunk.css",
+    "static/js/main.2f3716bb.chunk.js"
+  ]
+}
