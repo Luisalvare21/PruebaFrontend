@@ -1,0 +1,16 @@
+[
+
+    {
+
+        "id": 1,
+        "Transaccion1": "Cobro exitoso", 
+        "Transaccion2": "Cobro no realizado",
+        "Fecha": "04/06/2020- 17:14:24", 
+        "Metodo": "***** ***** ****7711",
+        "IdTransaccionBold": "GZEN23784UBV2",
+        "Monto1": "$25.000", 
+        "Monto2": "$15.000"
+
+    }
+
+]
